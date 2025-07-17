@@ -1,0 +1,13 @@
+{
+  "graphs": {
+    "stock_market_graph": {
+      "path": "studio:run",
+      "examples": [
+        {
+          "input": "Summarize the key insights from the 2024 stock market report."
+        }
+      ]
+    }
+  },
+  "dependencies": ["studio.py", "agent.py"]
+}
